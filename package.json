@@ -1,0 +1,9 @@
+{
+  "name": "ai-voice-interaction",
+  "version": "1.0.0",
+  "description": "AI Voice Interaction Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
